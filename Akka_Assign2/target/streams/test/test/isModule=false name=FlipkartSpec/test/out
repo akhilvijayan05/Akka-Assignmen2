@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mFlipkartSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mPurchaseRequestHandler[0m[0m
+[0m[[0minfo[0m] [0m[31m- must Respond when user is asking for more than one item  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.AssertionError: assertion failed: timeout (3 seconds) during expectMsg:[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.assert(Predef.scala:170)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsgPF(TestKit.scala:405)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.expectMsgPF(TestKit.scala:814)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at FlipkartSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(FlipkartSpec.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:1078)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

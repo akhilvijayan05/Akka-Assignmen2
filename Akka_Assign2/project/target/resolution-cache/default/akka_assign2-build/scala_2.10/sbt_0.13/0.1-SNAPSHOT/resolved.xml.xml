@@ -4,7 +4,7 @@
 		module="akka_assign2-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170321115706"
+		publication="20170322002219"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

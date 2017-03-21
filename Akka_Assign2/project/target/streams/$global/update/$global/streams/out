@@ -1,4 +1,4 @@
-[info] Updating {file:/home/knoldus/akka_kip/Akka_Assign2/project/}akka_assign2-build...
+[info] Updating {file:/home/knoldus/Akka_Assign2/project/}akka_assign2-build...
 [debug] :: resolving dependencies :: default#akka_assign2-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6074,19 +6074,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 5458ms :: artifacts dl 105ms
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT compile produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-compile.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT runtime produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-runtime.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT test produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-test.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT provided produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-provided.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT optional produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-optional.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT compile-internal produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-compile-internal.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT runtime-internal produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-runtime-internal.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT test-internal produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-test-internal.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT plugin produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-plugin.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT sources produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-sources.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT docs produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-docs.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT pom produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-pom.xml
-[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT scala-tool produced in /home/knoldus/akka_kip/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-scala-tool.xml
-[debug] 	resolve done (5458ms resolve - 105ms download)
+[debug] :: resolution report :: resolve 4038ms :: artifacts dl 404ms
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT compile produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-compile.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT runtime produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-runtime.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT test produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-test.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT provided produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-provided.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT optional produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-optional.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT compile-internal produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-compile-internal.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT runtime-internal produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-runtime-internal.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT test-internal produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-test-internal.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT plugin produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-plugin.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT sources produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-sources.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT docs produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-docs.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT pom produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-pom.xml
+[debug] 	report for default#akka_assign2-build;0.1-SNAPSHOT scala-tool produced in /home/knoldus/Akka_Assign2/project/target/resolution-cache/reports/default-akka_assign2-build-scala-tool.xml
+[debug] 	resolve done (4038ms resolve - 404ms download)
 [info] Done updating.

@@ -1,0 +1,275 @@
+<scoverage 
+statement-count="72" statements-invoked="56" statement-rate="77.78" branch-rate="75.00" version="1.0" timestamp="1490186407916">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="72" statements-invoked="56" statement-rate="77.78">
+            <classes>
+                <class 
+                name="PurchaseRequestHandler" filename="Flipkart.scala" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseRequestHandler/receive" statement-count="10" statements-invoked="10" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="877" end="925" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="753" end="769" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="698" end="698" line="24" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="840" end="840" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="779" end="856" line="29" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="954" end="980" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="831" end="839" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="791" end="820" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="831" end="846" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="877" end="925" line="34" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseRequestHandler/&lt;none&gt;" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="633" end="672" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseRequestHandler" class-type="Class" full-class-name="PurchaseRequestHandler" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="649" end="671" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="Flipkart" filename="Flipkart.scala" statement-count="14" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Flipkart/&lt;none&gt;" statement-count="14" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="386" end="392" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="386" end="456" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="297" end="326" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="375" end="376" line="14" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="366" end="456" line="14" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="342" end="363" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="386" end="456" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="386" end="392" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="398" end="455" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="263" end="282" line="11" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="396" end="397" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="393" end="393" line="15" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="357" end="362" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Flipkart" class-type="Object" full-class-name="Flipkart" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="380" end="382" line="14" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="ValidationActor" filename="Flipkart.scala" statement-count="24" statements-invoked="22" statement-rate="91.67" branch-rate="50.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/ValidationActor/receive" statement-count="17" statements-invoked="15" statement-rate="88.24" branch-rate="50.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1364" end="1364" line="57" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1506" end="1506" line="64" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1421" end="1429" line="62" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1521" end="1553" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1583" end="1619" line="69" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1469" end="1481" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1411" end="1561" line="61" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1497" end="1505" line="64" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1646" end="1677" line="72" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1536" end="1552" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1403" end="1410" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1469" end="1473" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1533" end="1533" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1421" end="1429" line="62" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1583" end="1619" line="69" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1461" end="1482" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1497" end="1512" line="64" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/ValidationActor/&lt;none&gt;" statement-count="7" statements-invoked="7" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1327" end="1339" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1105" end="1268" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1306" end="1326" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1105" end="1256" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1056" end="1057" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1074" end="1272" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="ValidationActor" class-type="Class" full-class-name="ValidationActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="&lt;none&gt;" start="1290" end="1340" line="56" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="PurchaseActor" filename="Flipkart.scala" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseActor/receive" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="2000" end="2004" line="85" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1922" end="1934" line="83" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1955" end="1964" line="84" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1892" end="1893" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="2023" end="2053" line="87" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1859" end="1894" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1953" end="1981" line="84" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1965" end="1979" line="84" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1868" end="1893" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1989" end="1997" line="85" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1935" end="1936" line="83" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1989" end="2004" line="85" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1870" end="1877" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1901" end="1937" line="83" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1910" end="1936" line="83" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1998" end="1998" line="85" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1980" end="1981" line="84" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1878" end="1891" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1761" end="1761" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1912" end="1921" line="83" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1944" end="1982" line="84" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="PurchaseActor" class-type="Class" full-class-name="PurchaseActor" source="/home/knoldus/Akka_Assign2/src/main/scala/Flipkart.scala" method="receive" start="1798" end="1852" line="81" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

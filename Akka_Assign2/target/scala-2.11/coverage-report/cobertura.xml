@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="0.78" lines-valid="72" lines-covered="56" branches-valid="4" branches-covered="3" branch-rate="0.75" complexity="0" version="1.0" timestamp="1490186407791">
+    <sources>
+        <source>--source</source>
+        <source>/home/knoldus/Akka_Assign2/src/main/scala-2.11</source>
+        <source>/home/knoldus/Akka_Assign2/src/main/scala</source>
+        <source>/home/knoldus/Akka_Assign2/src/main/java</source>
+    </sources>
+    <packages>
+        <package name="&lt;empty&gt;" line-rate="0.78" branch-rate="0.75" complexity="0">
+            <classes>
+                <class name="PurchaseRequestHandler" filename="Flipkart.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseRequestHandler/receive" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="34" hits="1" branch="false"/>
+                                <line number="28" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="29" hits="1" branch="false"/>
+                                <line number="37" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="30" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="34" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/PurchaseRequestHandler/&lt;none&gt;" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="23" hits="1" branch="false"/>
+                                <line number="23" hits="1" branch="false"/>
+                            </lines>
+</method>
+                    </methods>
+                    <lines>
+                        <line number="34" hits="1" branch="false"/>
+                        <line number="28" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="29" hits="1" branch="false"/>
+                        <line number="23" hits="1" branch="false"/>
+                        <line number="37" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="30" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="23" hits="1" branch="false"/>
+                        <line number="34" hits="1" branch="false"/>
+                    </lines>
+                </class>
+                <class name="Flipkart" filename="Flipkart.scala" line-rate="0.00" branch-rate="0.00" complexity="0">
+                    <methods>
+                        <method name="&lt;empty&gt;/Flipkart/&lt;none&gt;" signature="()V" line-rate="0.00" branch-rate="0.00" complexity="0">
+                            <lines>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="12" hits="0" branch="false"/>
+                                <line number="14" hits="0" branch="false"/>
+                                <line number="14" hits="0" branch="false"/>
+                                <line number="13" hits="0" branch="false"/>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="11" hits="0" branch="false"/>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="15" hits="0" branch="false"/>
+                                <line number="13" hits="0" branch="false"/>
+                                <line number="14" hits="0" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="12" hits="0" branch="false"/>
+                        <line number="14" hits="0" branch="false"/>
+                        <line number="14" hits="0" branch="false"/>
+                        <line number="13" hits="0" branch="false"/>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="11" hits="0" branch="false"/>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="15" hits="0" branch="false"/>
+                        <line number="13" hits="0" branch="false"/>
+                        <line number="14" hits="0" branch="false"/>
+                    </lines>
+                </class>
+                <class name="ValidationActor" filename="Flipkart.scala" line-rate="0.92" branch-rate="0.50" complexity="0">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/ValidationActor/receive" signature="()V" line-rate="0.88" branch-rate="0.50" complexity="0">
+                            <lines>
+                                <line number="57" hits="1" branch="false"/>
+                                <line number="64" hits="1" branch="false"/>
+                                <line number="62" hits="1" branch="false"/>
+                                <line number="65" hits="1" branch="false"/>
+                                <line number="69" hits="0" branch="false"/>
+                                <line number="63" hits="1" branch="false"/>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="64" hits="1" branch="false"/>
+                                <line number="72" hits="1" branch="false"/>
+                                <line number="65" hits="1" branch="false"/>
+                                <line number="61" hits="1" branch="false"/>
+                                <line number="63" hits="1" branch="false"/>
+                                <line number="65" hits="1" branch="false"/>
+                                <line number="62" hits="1" branch="false"/>
+                                <line number="69" hits="0" branch="false"/>
+                                <line number="63" hits="1" branch="false"/>
+                                <line number="64" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/ValidationActor/&lt;none&gt;" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="56" hits="1" branch="false"/>
+                                <line number="53" hits="1" branch="false"/>
+                                <line number="56" hits="1" branch="false"/>
+                                <line number="46" hits="1" branch="false"/>
+                                <line number="43" hits="1" branch="false"/>
+                                <line number="45" hits="1" branch="false"/>
+                                <line number="56" hits="1" branch="false"/>
+                            </lines>
+</method>
+                    </methods>
+                    <lines>
+                        <line number="57" hits="1" branch="false"/>
+                        <line number="56" hits="1" branch="false"/>
+                        <line number="64" hits="1" branch="false"/>
+                        <line number="62" hits="1" branch="false"/>
+                        <line number="65" hits="1" branch="false"/>
+                        <line number="69" hits="0" branch="false"/>
+                        <line number="63" hits="1" branch="false"/>
+                        <line number="53" hits="1" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="64" hits="1" branch="false"/>
+                        <line number="72" hits="1" branch="false"/>
+                        <line number="56" hits="1" branch="false"/>
+                        <line number="65" hits="1" branch="false"/>
+                        <line number="61" hits="1" branch="false"/>
+                        <line number="63" hits="1" branch="false"/>
+                        <line number="46" hits="1" branch="false"/>
+                        <line number="65" hits="1" branch="false"/>
+                        <line number="62" hits="1" branch="false"/>
+                        <line number="43" hits="1" branch="false"/>
+                        <line number="69" hits="0" branch="false"/>
+                        <line number="45" hits="1" branch="false"/>
+                        <line number="63" hits="1" branch="false"/>
+                        <line number="64" hits="1" branch="false"/>
+                        <line number="56" hits="1" branch="false"/>
+                    </lines>
+                </class>
+                <class name="PurchaseActor" filename="Flipkart.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method name="&lt;empty&gt;/PurchaseActor/receive" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="85" hits="1" branch="false"/>
+                                <line number="83" hits="1" branch="false"/>
+                                <line number="84" hits="1" branch="false"/>
+                                <line number="82" hits="1" branch="false"/>
+                                <line number="87" hits="1" branch="false"/>
+                                <line number="82" hits="1" branch="false"/>
+                                <line number="84" hits="1" branch="false"/>
+                                <line number="84" hits="1" branch="false"/>
+                                <line number="82" hits="1" branch="false"/>
+                                <line number="85" hits="1" branch="false"/>
+                                <line number="83" hits="1" branch="false"/>
+                                <line number="85" hits="1" branch="false"/>
+                                <line number="82" hits="1" branch="false"/>
+                                <line number="83" hits="1" branch="false"/>
+                                <line number="83" hits="1" branch="false"/>
+                                <line number="85" hits="1" branch="false"/>
+                                <line number="84" hits="1" branch="false"/>
+                                <line number="82" hits="1" branch="false"/>
+                                <line number="77" hits="1" branch="false"/>
+                                <line number="83" hits="1" branch="false"/>
+                                <line number="84" hits="1" branch="false"/>
+                                <line number="81" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="85" hits="1" branch="false"/>
+                        <line number="83" hits="1" branch="false"/>
+                        <line number="84" hits="1" branch="false"/>
+                        <line number="82" hits="1" branch="false"/>
+                        <line number="87" hits="1" branch="false"/>
+                        <line number="82" hits="1" branch="false"/>
+                        <line number="84" hits="1" branch="false"/>
+                        <line number="84" hits="1" branch="false"/>
+                        <line number="82" hits="1" branch="false"/>
+                        <line number="85" hits="1" branch="false"/>
+                        <line number="83" hits="1" branch="false"/>
+                        <line number="85" hits="1" branch="false"/>
+                        <line number="82" hits="1" branch="false"/>
+                        <line number="83" hits="1" branch="false"/>
+                        <line number="83" hits="1" branch="false"/>
+                        <line number="85" hits="1" branch="false"/>
+                        <line number="84" hits="1" branch="false"/>
+                        <line number="82" hits="1" branch="false"/>
+                        <line number="77" hits="1" branch="false"/>
+                        <line number="83" hits="1" branch="false"/>
+                        <line number="84" hits="1" branch="false"/>
+                        <line number="81" hits="1" branch="false"/>
+                    </lines>
+                </class>
+            </classes>
+        </package>
+    </packages>
+</coverage>

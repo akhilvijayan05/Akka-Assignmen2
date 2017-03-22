@@ -2360,7 +2360,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1452ms :: artifacts dl 35ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1574ms :: artifacts dl 43ms[0m
 [0m[[0mdebug[0m] [0m	report for default#akka_assign2_2.11;1.0 compile produced in /home/knoldus/Akka_Assign2/target/resolution-cache/reports/default-akka_assign2_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akka_assign2_2.11;1.0 runtime produced in /home/knoldus/Akka_Assign2/target/resolution-cache/reports/default-akka_assign2_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akka_assign2_2.11;1.0 test produced in /home/knoldus/Akka_Assign2/target/resolution-cache/reports/default-akka_assign2_2.11-test.xml[0m
@@ -2375,5 +2375,5 @@
 [0m[[0mdebug[0m] [0m	report for default#akka_assign2_2.11;1.0 pom produced in /home/knoldus/Akka_Assign2/target/resolution-cache/reports/default-akka_assign2_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akka_assign2_2.11;1.0 scala-tool produced in /home/knoldus/Akka_Assign2/target/resolution-cache/reports/default-akka_assign2_2.11-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akka_assign2_2.11;1.0 scoveragePlugin produced in /home/knoldus/Akka_Assign2/target/resolution-cache/reports/default-akka_assign2_2.11-scoveragePlugin.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1452ms resolve - 35ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1574ms resolve - 43ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

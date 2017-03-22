@@ -3,6 +3,11 @@ import akka.actor.{ActorSystem, Props}
 import akka.testkit._
 import org.scalatest.{BeforeAndAfterAll, MustMatchers, WordSpecLike}
 import com.typesafe.config.ConfigFactory
+import akka.pattern.ask
+import akka.util.Timeout
+import scala.concurrent.duration._
+import scala.concurrent.Await
+import scala.util.Success
 
 
 object FlipkartSpec {
@@ -61,16 +66,31 @@ class FlipkartSpec extends TestKit(testSystem) with WordSpecLike
   }
 
   "ValidationActor" must {
-//    "Respond when user is asking for more than one item" in {
-//      val dispatcherId = CallingThreadDispatcher.Id
-//      val props = Props[ValidationActor].withDispatcher(dispatcherId)
-//
-//      val ref = system.actorOf(props)
-//      //val ref = TestActorRef[Validate]
-//      EventFilter.info(message = "Sorry Out of stock....!!", occurrences = 1).intercept {
-//        ref ! (2,Customer("", "", "", ""))
-//      }
+
+    "handling out of stock" in {
+
+      val ref = TestActorRef[ValidationActor]
+      ref.underlyingActor.count = 0
+
+      EventFilter.info(message = "Sorry Out of stock....!!", occurrences = 1).intercept {
+        ref ! (Customer("", "", "", ""))
+      }
+    }
+
+ "Validating request" in {
+    val ref = TestActorRef[ValidationActor]
+    val ref2 = TestActorRef[PurchaseActor]
+    ref.underlyingActor.count = 8
+   implicit val timeout = Timeout(1000 seconds)
+   val future=ref2 ? Customer("","","","")
+
+   val Success(result:String) = future.value.get
+
+   result must be ("Ok")
+//    EventFilter.info(message = "In Stock", occurrences = 1).intercept {
+//      ref ! (Customer("", "", "", ""))
 //    }
+  }
 
     "Invalid Details" in {
       val dispatcherId = CallingThreadDispatcher.Id
@@ -82,7 +102,6 @@ class FlipkartSpec extends TestKit(testSystem) with WordSpecLike
         ref ! ""
       }
     }
-
 
   }
 
@@ -108,7 +127,6 @@ class FlipkartSpec extends TestKit(testSystem) with WordSpecLike
         ref ! ""
       }
     }
-
-
   }
+
 }

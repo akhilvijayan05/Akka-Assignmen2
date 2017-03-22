@@ -4,6 +4,8 @@
 [0m[[0minfo[0m] [0m[32m- must Success Request[0m[0m
 [0m[[0minfo[0m] [0m[32m- must Respond when user is asking for more than one item[0m[0m
 [0m[[0minfo[0m] [0m[32mValidationActor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must handling out of stock[0m[0m
+[0m[[0minfo[0m] [0m[32m- must Validating request[0m[0m
 [0m[[0minfo[0m] [0m[32m- must Invalid Details[0m[0m
 [0m[[0minfo[0m] [0m[32mPurchaseActor[0m[0m
 [0m[[0minfo[0m] [0m[32m- must Booking Details[0m[0m
